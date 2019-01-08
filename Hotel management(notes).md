@@ -559,3 +559,30 @@ If you can determine how many hours are spent per channel, per day, week, month.
 
 #### #2
 Finally, the last main problem that revenue management helps hotels overcome, is the issue that whenever your hotel's going to be full, `someone will cancel`.
+
+
+### Revenue Management Process
+#### Demand Optimization and Demand Data
+1. Data Collection 
+2. Data Aggregation
+3. Data Analysis
+4. Forecasting
+5. Decisions
+6. Distrubution
+
+#### Where to Find Data
+Key Performance Indicators (KPI)
+
+### Forecasting 
+Forecasting is in some ways predicting what will happen in the future.  now that we have our unconstrained demand forecast, what do we do with it? Well, we try to limit the peaks and fill the valleys. In other words, we identify the days where we have too much demand and need to turn away some requests and we identify the days where we don't have enough demand. Our unconstrained demand forecast shows us clearly the days where we expect to have to turn people away anyway. And where it's not too late to do anything about that day already. These are the days where we need to consider a restriction such as a minimum length of stay of two nights. 
+
+As fewer and fewer rooms are available, the revenue manager can go up the rates ladder until the house level is reached. Meaning all rates and channels are subject to a minimum length of stay restriction. Only when there is still too much demand, should a revenue manager finally close out. 
+
+> ### A revenue manager can not, I repeat, cannot generate demand by dropping the price. 
+
+Dynamic pricing and availability controls are the two main levers that the revenue manager has in his or her hands directly. Dynamic pricing is an important tool in the revenue manager's kit, but changing the price is not enough to earn the title of revenue manager. You also has to know when and when not to use availability control.
+
+#### Criticisms of revenue management
+Revenue management is, as the name implies, focused on revenue maximization, not profit maximization
+
+the more often that you're sold out actually, the greater opportunity you have to increase your revenue.    
