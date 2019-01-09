@@ -219,5 +219,17 @@ Identify two periods of forecasted occupancy of below 65% and give recommendatio
 ##### Create a forecast for one month by market segment using the # pace model, % pace model or a combination of both. You should review figures and manually override the forecast where necessary. Give justifications for your final figures
 
 ##### From your completed forecast, identify two periods when demand is forecasted to be over 100%. What inventory restrictions would you recommend putting in place to maximize these opportunities? Be specific by market segment as necessary. 
+Corporate Individual Segment
+1st and 3rd weeks
+Transient (Individual) Non Negotiated
+1st and 2nd weeks
+Transient Negotiated fit
+3rd and 4th weeks
+Other
+Any week
+
 
 ##### From your completed forecast, identify two periods when low occupancy is expected. Which market segments would you recommend to target over these periods and why?
+Low occupancy is expected on the 3rd(382) and 4th(248) weeks as compared to the other weeks
+Focus should be placed on the Transient Individual Non Negotiated Segment for these weeks due to its high occupancy forecast
+

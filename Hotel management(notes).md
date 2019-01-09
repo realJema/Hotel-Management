@@ -578,11 +578,18 @@ Forecasting is in some ways predicting what will happen in the future.  now that
 
 As fewer and fewer rooms are available, the revenue manager can go up the rates ladder until the house level is reached. Meaning all rates and channels are subject to a minimum length of stay restriction. Only when there is still too much demand, should a revenue manager finally close out. 
 
-> ### A revenue manager can not, I repeat, cannot generate demand by dropping the price. 
+> #### A revenue manager can not, I repeat, cannot generate demand by dropping the price. 
 
 Dynamic pricing and availability controls are the two main levers that the revenue manager has in his or her hands directly. Dynamic pricing is an important tool in the revenue manager's kit, but changing the price is not enough to earn the title of revenue manager. You also has to know when and when not to use availability control.
+
+Forecast = Last Year Final - Last Year OTB + This Year OTB
+
+## % Pace based
+Last Year Pace(%) = Last Year OTB / Last Year Final 
+Forecast = This year OTB / Last Year Pace
+
 
 #### Criticisms of revenue management
 Revenue management is, as the name implies, focused on revenue maximization, not profit maximization
 
-the more often that you're sold out actually, the greater opportunity you have to increase your revenue.    
+the more often that you're sold out actually, the greater opportunity you have to increase your revenue.
